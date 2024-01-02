@@ -1,0 +1,10 @@
+.todo {
+    border-bottom: 1px solid #bbb;
+    padding: 10px;
+
+}
+.checkbox {
+    width: 18px;
+    height: 18px;
+    margin: 2px 10px 0 0;
+}
